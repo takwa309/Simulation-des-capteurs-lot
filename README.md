@@ -36,9 +36,6 @@ Le système se compose de trois principaux composants :
 - **Gson** : Sérialisation et désérialisation JSON pour l’échange de données.
 
 ## Installation et exécution
-# Cloner le dépôt
-git clone https://github.com/takwa309/Simulation-des-capteurs-lot.git
-cd Simulation-des-capteurs-lot
 
 # Compiler le projet
 javac -cp ".;lib/gson-2.10.1.jar" *.java
@@ -49,5 +46,6 @@ java -cp ".;lib/gson-2.10.1.jar" IoTLamportDashboard
 # Lancer les clients pour visualiser les données en temps réel
 
 
-# Takwa Jazi
+
+
 
