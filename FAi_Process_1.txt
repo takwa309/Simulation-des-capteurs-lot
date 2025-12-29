@@ -1,0 +1,5 @@
+Process 1 (Capteur-Humidite) - FAi:
+Timestamp: 1765560139081
+Hi: 40
+FAi: []
+---

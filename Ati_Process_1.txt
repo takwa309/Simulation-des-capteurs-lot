@@ -1,0 +1,6 @@
+Process 1 (Capteur-Humidite) - Ati:
+Timestamp: 1765560084677
+Hi: 18
+Ati: []
+---
+Waiting for replies from:

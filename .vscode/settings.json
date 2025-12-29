@@ -1,0 +1,17 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "C:\\Users\\HP\\Desktop\\dowload\\openjfx-25.0.1_windows-x64_bin-sdk\\javafx-sdk-25.0.1\\lib\\javafx.controls.jar",
+        "C:\\Users\\HP\\Desktop\\dowload\\openjfx-25.0.1_windows-x64_bin-sdk\\javafx-sdk-25.0.1\\lib\\javafx.fxml.jar",
+        "C:\\Users\\HP\\Desktop\\dowload\\openjfx-25.0.1_windows-x64_bin-sdk\\javafx-sdk-25.0.1\\lib\\javafx.graphics.jar",
+        "C:\\Users\\HP\\Desktop\\dowload\\openjfx-25.0.1_windows-x64_bin-sdk\\javafx-sdk-25.0.1\\lib\\javafx.media.jar",
+        "C:\\Users\\HP\\Desktop\\dowload\\openjfx-25.0.1_windows-x64_bin-sdk\\javafx-sdk-25.0.1\\lib\\javafx.swing.jar",
+        "C:\\Users\\HP\\Desktop\\dowload\\openjfx-25.0.1_windows-x64_bin-sdk\\javafx-sdk-25.0.1\\lib\\javafx.web.jar",
+        "C:\\Users\\HP\\Desktop\\dowload\\openjfx-25.0.1_windows-x64_bin-sdk\\javafx-sdk-25.0.1\\lib\\jdk.jsobject.jar",
+        "C:\\Users\\HP\\Desktop\\dowload\\openjfx-25.0.1_windows-x64_bin-sdk\\javafx-sdk-25.0.1\\lib\\jfx.incubator.input.jar",
+        "C:\\Users\\HP\\Desktop\\dowload\\openjfx-25.0.1_windows-x64_bin-sdk\\javafx-sdk-25.0.1\\lib\\jfx.incubator.richtext.jar",
+        "C:\\Users\\HP\\Desktop\\dowload\\openjfx-25.0.1_windows-x64_bin-sdk\\javafx-sdk-25.0.1\\lib\\javafx.base.jar",
+        "C:\\Users\\HP\\Desktop\\dowload\\openjfx-25.0.1_windows-x64_bin-sdk\\javafx-sdk-25.0.1\\lib\\javafx-swt.jar",
+        "C:\\Users\\HP\\Desktop\\dowload\\lib\\gson-2.10.1.jar"
+    ]
+}

@@ -1,0 +1,5 @@
+Process 0 (Capteur-Temperature) - FAi:
+Timestamp: 1765560139078
+Hi: 39
+FAi: []
+---

@@ -1,0 +1,6 @@
+Process 0 (Capteur-Temperature) - Ati:
+Timestamp: 1765560087718
+Hi: 27
+Ati: []
+---
+Waiting for replies from:
